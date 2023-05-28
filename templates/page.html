@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>AUDIT ÉNERGÉTIQUE RÈGLEMENTAIRE</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            color: #000;
+            margin: 0;
+            padding: 0;
+        }
+        
+        .logo {
+            text-align: center;
+            margin-top: 20px;
+        }
+        
+        .title {
+            text-align: center;
+            color: green;
+            text-transform: uppercase;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+        
+        .image {
+            text-align: center;
+            margin-top: 20px;
+        }
+        
+        table {
+            margin: 20px auto;
+            border-collapse: collapse;
+            width: 80%;
+        }
+        
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+            text-align: center;
+        }
+        
+        th {
+            font-weight: bold;
+        }
+        
+        footer {
+            text-align: center;
+            font-size: 12px;
+            margin-top: 20px;
+        }
+        
+        .footer-logo {
+            text-align: left;
+            float: left;
+        }
+        
+        .page-number {
+            text-align: right;
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    
+    <h1 class="title">AUDIT ÉNERGÉTIQUE RÈGLEMENTAIRE</h1>
+    
+    <div class="image">
+        <img src="static/bootstrap/pic/image.jpg" alt="Image">
+    </div>
+    
+    <table>
+        <tr>
+            <th>Bureau d'études</th>
+            <th>Maître d'œuvre</th>
+            <th>Client</th>
+        </tr>
+        <tr>
+            <td><strong>TITRE</strong></td>
+            <td><strong>TITRE</strong></td>
+            <td><strong>TITRE</strong></td>
+        </tr>
+        <tr>
+            <td>ENERGY PERFORMANCE</td>
+            <td>RSD ENERGIE</td>
+            <td>GAIGNIERE DENIS</td>
+        </tr>
+        <tr>
+            <td>Parc Multimodal, 91 A rue Jacquard<br>69120 VAULX EN VELIN</td>
+            <td></td>
+            <td>79 RUE JULES FUZELIER<br>08700 NOUZONVILLE</td>
+        </tr>
+        <tr>
+            <td>contact@energyperformance.fr<br>06 59 96 69 22<br>SIRET: 913479226 00015<br>Code NAF: 7120B<br>Capital social: 1 000€</td>
+            <td></td>
+            <td>0641479155<br>gaignierredenis5@gmail.com</td>
+        </tr>
+    </table>
+    
+    <p>Date de la visite: <span id="date_de_la_visite"></span></p>
+    <p>Date de la réalisation d’audit énergétique: <span id="date_de_la_réalisation"></span></p>
+    <p>Référencement: <span id="refernece"></span></p>
+    <p>Version: <span id="version"></span></p>
+
+    <footer>
+        <div class="footer-logo">
+            <img src="static/bootstrap/pic/Logo-NVIDIA.png" alt="Logo">
+        </div>
+        <div class="page-number">
+            Page 1
+        </div>
+        <div style="clear:both;"></div>
+    </footer>
+    <script>
+        // Ajoutez ici le code pour récupérer et afficher les valeurs des variables dynamiques
+        document.getElementById("date_de_la_visite").innerText = "12 mai 2023";
+        document.getElementById("date_de_la_réalisation").innerText = "10 juin 2023";
+        document.getElementById("refernece").innerText = "REF123";
+        document.getElementById("version").innerText = "1.0";
+    </script>
+</body>
+</html>

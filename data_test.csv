@@ -1,0 +1,23 @@
+title,tags,view_count,answer_count,similar_titles_count
+"Java Docker Container, how to check the output?","['java', 'docker', 'gitlab', 'gitlab-ci']",34,1,32
+Gradle not including all dependancnes in property java.class.path,"['java', 'gradle', 'classpath', 'javaexec-gradle-plugin']",7,0,7
+I want to log who is kicking other people from VC using JDA,"['java', 'discord', 'discord-jda']",18,0,16
+"Maven build failure with identical extension and classifier (&#39;jar&#39;, &#39;null&#39;) error",['java'],21,0,11
+Elements in hamburger menu are sometimes not located and fails the tests,"['java', 'selenium-webdriver', 'intellij-idea', 'cucumber']",22,0,3
+Junit giving error related to private access in a class FilesMgr and as well as thenReturn(FileStatus),"['java', 'junit', 'mocking', 'mockito', 'powermockito']",23,1,22
+Early crashes on Android 13,"['java', 'android', 'kotlin', 'crash']",34,0,6
+Search In Mysql-Database using java-swing,"['java', 'database', 'swing', 'mysql-workbench']",22,0,16
+What is the replacement to use for `ForSeleniumServer` in Selenium 4.5.0?,"['java', 'selenium-webdriver', 'selenium-chromedriver']",5,0,4
+Expression tree is not printing what it should,"['java', 'tree', 'expression-trees']",10,0,0
+Android Studio error: Could not resolve com.google.common even though Guava and MavenCentral are in build.gradle file,"['java', 'android', 'gradle', 'guava']",17,0,14
+Why is the RequestMapper not displaying on Webpage?,"['java', 'spring-boot', 'request-mapping', 'get-mapping']",36,2,4
+Spring Security deprecated issue,"['java', 'spring', 'spring-boot', 'spring-security']",47,2,13
+Losing data after apk is restarted,"['java', 'json', 'unity-game-engine']",26,0,0
+Neo4j Error - NoClassDefFoundError: Could not initialize class org.neo4j.internal.helpers.Exceptions,"['java', 'neo4j']",19,0,3
+Calculate the time complexity of recursion function,"['java', 'recursion', 'big-o']",27,1,14
+"XmlMapper not escaping the greater-than character, but does escape the rest","['java', 'xml', 'jackson']",19,1,0
+Can anyone tell me how to get back to choice 1 after the program runs,['java'],12,0,7
+Concat inside mybatis foreach,"['java', 'mybatis', 'spring-mybatis']",22,0,3
+Get all links of website using Selenium webdriver (java),"['java', 'selenium-webdriver']",24,1,5
+If an abstract class is one which has no body (implementation) then how is it that it can also contain regular (implemented) methods?,"['java', 'interface', 'implementation', 'abstraction']",32,1,0
+Permission denied in java folder,"['java', 'ubuntu', 'permissions']",40,1,2
